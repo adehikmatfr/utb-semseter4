@@ -1,0 +1,29 @@
+1⁠.  ⁠⁠IF026 - Pemograman Web 2 (221MA) -> (Nyieun web php native dengan 7 ketentuan) DONE
+
+2.⁠  ⁠IF016 - Pemograman Berorientasi Objek 2 (222K) -> (Nyieun desktop app java umkm dengan 5 ketentuan)
+    1. Perhitungan dalam program
+    2. Pencarian barang
+    3. Calendar dan Date
+    4. Terdapat Gambar menarik pada Aplikasi (bisa mengunakan AWT atau Swing atau JAVA FX)
+    5. Terdapat Pengelolaan suara, Memainkan suara, Mengontrol suara
+-> DONE
+
+3.  IF020 - Digital Preneurship (222K)
+    Anda diminta untuk menentukan Ide Digital Preneurship serta membuat Bisnis Model Canvas untuk ide bisnis tersebut. 
+    Selanjutnya tuangkan dalam bentuk makalah dengan ketentuan : 
+    1.	Makalah harus ditulis dalam format  jenis huruf TNR 12 pt, spasi 1.5. 
+    2.	Struktur makalah : judul, pendahuluan, tubuh makalah yang menguraikan ide bisnis dan Bisnis Model Canvas, serta kesimpulan.
+    3.	Panjang: Disarankan sekitar 800-1000 kata untuk tubuh makalah (tidak termasuk judul, daftar referensi, atau lampiran lainnya).
+    4.	Referensi: Silakan berikan referensi yang relevan jika Anda menggunakan sumber eksternal.
+    5.	Penulisan: Pastikan tidak melakukan plagiasa terhadap karya milik orang lain. Jika terindikasi melakukan kecurangan akan mendapat nilai 0 (NOL)
+    Catatan :  Kumpulkan jawaban di link gform yang akan diinfokan di lembar soal paling lambat tanggal 20 Mei 2024 jam 23.59
+
+3. IF018 - Jaringan Komputer 2 (222K) -> udah ada soalnya
+   
+4. IF201 - Manajemen Proyek Perangkat Lunak (222K) -> belum ada
+   
+5. IF006 - Object Oriented Analysis and Design (222K) -> belum ada tapi ada tapi ada tugas yang harus di selesaikan
+
+6. IF023 - Pemograman Mobile 1 (222K) -> belum ada
+
+7. IF022 - Teknik Kompilasi (222K) -> belum ada
