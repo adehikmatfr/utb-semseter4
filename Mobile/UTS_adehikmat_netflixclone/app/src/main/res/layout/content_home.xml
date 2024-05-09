@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="55dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/backgroundImage"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:contentDescription="@string/exampleimg"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/bg_12_strong_foreground" />
+
+        <!-- Overlay for fade effect -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="298dp"
+            android:background="#66000000" />
+
+        <!-- Movie Title and Genre -->
+
+        <!-- Action Buttons -->
+
+        <!-- Horizontal List for Previews -->
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="48dp"
+            android:layout_marginTop="124dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:text="@string/_12_strong"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/tvGenre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvTitle"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="9dp"
+            android:text="@string/gritty_dark_thriller_drama_crime"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp" />
+
+        <Button
+            android:id="@+id/btnPlay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvGenre"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/play" />
+
+        <Button
+            android:id="@+id/btnAddToList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvGenre"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="46dp"
+            android:layout_toEndOf="@id/btnPlay"
+            android:text="@string/my_list" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvPreviews"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnPlay"
+            android:layout_marginTop="7dp"
+            android:contentDescription="@string/horizontal_list_of_movie_previews"
+            android:orientation="horizontal"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/preview_item" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
