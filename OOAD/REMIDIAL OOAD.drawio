@@ -1,0 +1,156 @@
+<mxfile host="app.diagrams.net" modified="2024-06-08T11:55:56.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4uTlGmf382U52leoEC6O" version="24.5.2" type="device">
+  <diagram name="Page-1" id="_0ALdKXiYZdklbZ6asbO">
+    <mxGraphModel dx="1538" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="775YnB5Uk6oQfhebS1WF-30" value="Menginformasikan Ketersediaan Tiket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1224.25" y="550" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-45" value="&lt;div title=&quot;Page 2&quot; class=&quot;page&quot;&gt;&lt;div title=&quot;Page 2&quot; class=&quot;page&quot;&gt;&lt;div class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: BookAntiqua; font-weight: 700;&quot;&gt;Biro Jasa Pelayanan Pariwisata&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&#x9;&#x9;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=274;height=32;" vertex="1" parent="1">
+          <mxGeometry x="946" y="28" width="601" height="1042" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-47" target="775YnB5Uk6oQfhebS1WF-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-47" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="877" y="485" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-49" target="775YnB5Uk6oQfhebS1WF-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-86" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.614;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-49" target="775YnB5Uk6oQfhebS1WF-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-49" target="775YnB5Uk6oQfhebS1WF-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-49" value="Fron Office (FO)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1617" y="142" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-50" value="mengisi formulir pendftaran dan persyaratan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-51" value="menyerahkan formulir dan persyaratan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="297" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-52" value="Verifikasi Kelengkapan Formulir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-53" value="Mengembalikan Formulir yang Tidak Lengkap" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1164.5" y="74" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-54" value="Menyerahkan Formulir yang Lengkap ke PTP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="90" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-55" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.258;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-51" target="775YnB5Uk6oQfhebS1WF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1207" y="412" as="sourcePoint" />
+            <mxPoint x="1367" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-56" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-52" target="775YnB5Uk6oQfhebS1WF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1097" y="292" as="sourcePoint" />
+            <mxPoint x="1097" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-57" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-53" target="775YnB5Uk6oQfhebS1WF-52">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1234" y="224" as="sourcePoint" />
+            <mxPoint x="1277" y="212" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-58" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-54" target="775YnB5Uk6oQfhebS1WF-52">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1307" y="150" as="sourcePoint" />
+            <mxPoint x="1287" y="212" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-59" target="775YnB5Uk6oQfhebS1WF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-59" value="Bagian Pemesanan&amp;nbsp;&lt;div&gt;Tiket Perjalanan (PTP)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1617" y="475" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-61" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-30" target="775YnB5Uk6oQfhebS1WF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1085" y="282" as="sourcePoint" />
+            <mxPoint x="1085" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-62" value="Memberitahukan Ketersediaan Tiket" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1218" y="700" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-63" value="PT. ABC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1617" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.962;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-63" target="775YnB5Uk6oQfhebS1WF-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-66" target="775YnB5Uk6oQfhebS1WF-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-66" value="PT. Bagian&amp;nbsp;&lt;div&gt;Pengurusan&amp;nbsp;&lt;/div&gt;&lt;div&gt;Visa (PV)&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1617" y="750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-68" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-62" target="775YnB5Uk6oQfhebS1WF-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1229" y="251" as="sourcePoint" />
+            <mxPoint x="1132" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-69" value="Mengurus Visa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096.75" y="790" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-70" value="Menetapkan Pendamping Perjalanan" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037" y="940" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-75" target="775YnB5Uk6oQfhebS1WF-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-75" value="Bagian&amp;nbsp;&lt;div&gt;Pendamping&lt;div&gt;&amp;nbsp;Perjalanan (PP)&lt;/div&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1617" y="940" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-76" value="Menyerahkan Paspor ke Customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1256.75" y="280" width="131.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.765;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-49" target="775YnB5Uk6oQfhebS1WF-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-81" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.667;entryY=1.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-69" target="775YnB5Uk6oQfhebS1WF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1143" y="463" as="sourcePoint" />
+            <mxPoint x="1079" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-87" value="menginformasikan&amp;nbsp;&lt;br&gt;tiket tersedia ke customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="390" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-88" value="menginformasikan&amp;nbsp;&lt;br&gt;tiket tidak tersedia ke customer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="430" width="127.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-92" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-87" target="775YnB5Uk6oQfhebS1WF-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1234" y="595" as="sourcePoint" />
+            <mxPoint x="1124" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-93" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-88" target="775YnB5Uk6oQfhebS1WF-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1324" y="470" as="sourcePoint" />
+            <mxPoint x="1298" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="775YnB5Uk6oQfhebS1WF-94" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.286;entryY=0.964;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="775YnB5Uk6oQfhebS1WF-70" target="775YnB5Uk6oQfhebS1WF-50">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1158" y="801" as="sourcePoint" />
+            <mxPoint x="1083" y="593" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
